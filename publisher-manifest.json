@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "74576b7cca496d09c787f9c3",
+  "owner": "evckbvq",
+  "repo": "page-4c14ee8702770d356930e2b7",
+  "title": "大师专线",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4c14ee8702770d356930e2b7",
+      "a": "大师专线",
+      "b": "",
+      "entity": "大师专线",
+      "brand": "大师专线",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f8033d6a7ca2525364c6d40795fbcc0855a556c29c86286b622b02720a3aa892",
+      "content": {
+        "keyword1": "大师专线",
+        "keyword2": "",
+        "primary_entity": "大师专线",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大师专线提供严谨、高效的网络数据传输与专线连接方案，以专栏作者的视角为您解读现代数字通信的质感与稳定性。",
+          "AI_DESCRIPTION": "大师专线提供严谨、高效的网络数据传输与专线连接方案，以专栏作者的视角为您解读现代数字通信的质感与稳定性。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #f7f5f0;--panel-bg: #ffffff;--primary: #6b1426;--primary-light: #8a1c32;--accent: #c49a45;--text-main: #2b2525;--text-muted: #665c5c;--border-color: #e3ded8;--shadow: 0 4px 20px rgba(107, 20, 38, 0.06)}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {background-color: var(--bg-color);color: var(--text-main);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;line-height: 1.7;padding-bottom: 70px}\n\nheader, section, footer {max-width: 1200px;margin: 0 auto;padding: 4rem 2rem}\n\n/* 仪表盘式数据块拼贴 Hero */\n.hero-dashboard {padding-top: 5rem}\n\n.hero-header {margin-bottom: 3rem;max-width: 800px}\n\nh1 {font-size: clamp(2.5rem, 5vw, 4rem);color: var(--primary);font-weight: 700;letter-spacing: -0.02em;margin-bottom: 1rem}\n\n.hero-subtitle {font-size: 1.25rem;color: var(--text-muted);font-weight: 400}\n\n.dashboard-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));gap: 1.5rem}\n\n.dash-card {background: var(--panel-bg);border: 1px solid var(--border-color);border-left: 5px solid var(--primary);border-radius: 4px;padding: 2rem;box-shadow: var(--shadow)}\n\n.dash-card.accent {border-left-color: var(--accent)}\n\n.dash-label {font-size: 0.875rem;text-transform: uppercase;letter-spacing: 0.1em;color: var(--text-muted);margin-bottom: 0.5rem}\n\n.dash-value {font-size: 2rem;font-weight: 700;color: var(--primary);margin-bottom: 0.5rem}\n\n.dash-desc {font-size: 0.95rem;color: var(--text-muted)}\n\n/* 专栏叙事风格板块 */\n.article-section {background: var(--panel-bg);border-top: 1px solid var(--border-color);border-bottom: 1px solid var(--border-color);padding: 5rem 2rem}\n\n.article-container {max-width: 800px;margin: 0 auto}\n\nh2 {font-size: 2rem;color: var(--primary);margin-bottom: 1.5rem;font-weight: 600}\n\np {margin-bottom: 1.5rem;font-size: 1.1rem;color: var(--text-main)}\n\n/* 阶梯式递进排列套餐 */\n.plans-section {padding: 5rem 2rem}\n\n.plans-header {text-align: center;max-width: 700px;margin: 0 auto 4rem auto}\n\n.plans-ladder {display: flex;flex-direction: column;gap: 2rem;max-width: 900px;margin: 0 auto}\n\n.plan-step {background: var(--panel-bg);border: 1px solid var(--border-color);border-left: 6px solid var(--primary);border-radius: 6px;padding: 2.5rem;box-shadow: var(--shadow);transition: transform 0.2s ease}\n\n.plan-step:nth-child(2) {margin-left: 2rem;border-left-color: var(--accent)}\n\n.plan-step:nth-child(3) {margin-left: 4rem;border-left-color: var(--primary-light)}\n\n@media (max-width: 768px) {\n  .plan-step, .plan-step:nth-child(2), .plan-step:nth-child(3) {margin-left: 0}\n}\n\n.plan-title {font-size: 1.5rem;font-weight: 700;color: var(--primary);margin-bottom: 0.5rem}\n\n.plan-pricing {font-size: 1.75rem;font-weight: 700;color: var(--text-main);margin-bottom: 0.25rem}\n\n.plan-annual {font-size: 0.9rem;color: var(--text-muted);margin-bottom: 1.5rem}\n\n.plan-features {list-style: none;margin-bottom: 2rem}\n\n.plan-features li {padding: 0.5rem 0;border-bottom: 1px dashed var(--border-color);font-size: 0.95rem;color: var(--text-muted)}\n\n.plan-features li::before {content: \"— \";color: var(--accent);font-weight: bold}\n\n.btn {display: inline-block;background: var(--primary);color: #fff;padding: 0.75rem 2rem;border-radius: 4px;text-decoration: none;font-weight: 600;letter-spacing: 0.05em;font-size: 0.9rem}\n\n.btn:hover {background: var(--primary-light)}\n\n/* 客户端说明区 */\n.client-section {padding: 4rem 2rem;background: #f0ece1}\n\n.client-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));gap: 1.5rem;margin-top: 2rem}\n\n.client-card {background: var(--panel-bg);border: 1px solid var(--border-color);border-left: 4px solid var(--primary);padding: 1.5rem;border-radius: 4px}\n\n.client-card h3 {font-size: 1.2rem;color: var(--primary);margin-bottom: 0.5rem}\n\n/* FAQ 按主题分组 */\n.faq-section {padding: 5rem 2rem;max-width: 900px;margin: 0 auto}\n\n.faq-group {margin-bottom: 3rem}\n\n.faq-group-title {font-size: 1.25rem;color: var(--accent);text-transform: uppercase;letter-spacing: 0.1em;margin-bottom: 1.5rem;border-bottom: 1px solid var(--border-color);padding-bottom: 0.5rem}\n\n.faq-item {background: var(--panel-bg);border: 1px solid var(--border-color);border-left: 4px solid var(--primary);padding: 1.5rem;margin-bottom: 1rem;border-radius: 4px}\n\n.faq-question {font-size: 1.1rem;font-weight: 600;color: var(--primary);margin-bottom: 0.5rem}\n\n.faq-answer {color: var(--text-muted);font-size: 0.95rem}\n\n/* 底部固定式文字导航 */\n.fixed-nav {position: fixed;bottom: 0;left: 0;right: 0;background: rgba(43, 37, 37, 0.95);backdrop-filter: blur(10px);color: #fff;padding: 1rem 2rem;z-index: 1000;display: flex;justify-content: center;gap: 2rem;font-size: 0.9rem;letter-spacing: 0.05em;border-top: 1px solid rgba(255, 255, 255, 0.1)}\n\n.fixed-nav a {color: #e3ded8;text-decoration: none;transition: color 0.2s ease}\n\n.fixed-nav a:hover {color: var(--accent)}\n\nfooter {text-align: center;color: var(--text-muted);font-size: 0.85rem;padding-bottom: 6rem}\n</style><main>\n  \n  <section class=\"hero-dashboard\">\n    <div class=\"hero-header\">\n      <h1>大师专线</h1>\n      <p class=\"hero-subtitle\">以精细化架构与匠心打磨的网络传输方案，为追求极致数据效率的您提供稳健、开阔的数字链路支撑。</p>\n    </div>\n    \n    <div class=\"dashboard-grid\">\n      <div class=\"dash-card\">\n        <div class=\"dash-label\">核心网络指标</div>\n        <div class=\"dash-value\">99.9%</div>\n        <div class=\"dash-desc\">全年持续在线的链路保障，确保高强度业务与传输不间断。</div>\n      </div>\n      <div class=\"dash-card accent\">\n        <div class=\"dash-label\">专线路由延迟</div>\n        <div class=\"dash-value\">&lt; 35ms</div>\n        <div class=\"dash-desc\">精选优质骨干直联节点，物理级优化每一次数据往返。</div>\n      </div>\n      <div class=\"dash-card\">\n        <div class=\"dash-label\">多端协同支持</div>\n        <div class=\"dash-value\">全平台</div>\n        <div class=\"dash-desc\">无缝适配主流桌面与移动操作系统，一账户多设备并行。</div>\n      </div>\n    </div>\n  </section>\n\n  \n  <section class=\"article-section\">\n    <div class=\"article-container\">\n      <h2>构筑数字世界里的静谧长廊</h2>\n      <p>在这个信息洪流奔涌不息的时代，网络传输早已超越了简单的连接定义，它演变为一种关于效率、安全与优雅的综合体验。大师专线自创立之初，便摒弃了浮躁的堆砌，转而专注于每一条骨干线路的物理特性调优与冗余保护。</p>\n      <p>我们深知，真正优秀的网络应当如同空气一般——在你需要时充沛而稳定，在日常使用中几乎察觉不到阻碍。无论是高负荷的数据吞吐，还是跨地域的实时协作，大师专线始终以克制而严谨的态度，为您维护着一条通畅无阻的数字专线。</p>\n    </div>\n  </section>\n\n  \n  <section class=\"plans-section\" id=\"plans\">\n    <div class=\"plans-header\">\n      <h2>灵活的阶梯式套餐</h2>\n      <p>根据您的实际流量需求与设备规模，选择最契合的数字链路方案。</p>\n    </div>\n\n    <div class=\"plans-ladder\">\n      \n      <div class=\"plan-step\">\n        <div class=\"plan-title\">基础版</div>\n        <div class=\"plan-pricing\">¥15 / 月</div>\n        <div class=\"plan-annual\">按年付仅需 ¥150 / 年</div>\n        <ul class=\"plan-features\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">选择基础版</a>\n      </div>\n\n      \n      <div class=\"plan-step\">\n        <div class=\"plan-title\">旗舰版</div>\n        <div class=\"plan-pricing\">¥35 / 月</div>\n        <div class=\"plan-annual\">按年付仅需 ¥350 / 年</div>\n        <ul class=\"plan-features\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">选择旗舰版</a>\n      </div>\n\n      \n      <div class=\"plan-step\">\n        <div class=\"plan-title\">团队版</div>\n        <div class=\"plan-pricing\">¥85 / 月</div>\n        <div class=\"plan-annual\">按年付仅需 ¥850 / 年</div>\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">选择团队版</a>\n      </div>\n    </div>\n  </section>\n\n  \n  <section class=\"client-section\" id=\"clients\">\n    <div>\n      <h2>全平台客户端支持</h2>\n      <p>无论您习惯使用何种终端设备，大师专线均备有原生适配的客户端或标准协议配置指引，助您轻松接入专线网络。</p>\n      \n      <div class=\"client-grid\">\n        <div class=\"client-card\">\n          <h3>macOS &amp; Windows</h3>\n          <p>提供专为桌面端设计的图形界面客户端，支持一键切换最优节点与智能分流。</p>\n        </div>\n        <div class=\"client-card\">\n          <h3>iOS &amp; Android</h3>\n          <p>轻量化移动端应用，完美适配各大移动操作系统，兼顾续航与连接稳定性。</p>\n        </div>\n        <div class=\"client-card\">\n          <h3>路由器与网关</h3>\n          <p>支持主流软路由与固件配置，实现局域网内全设备无感直连专线网络。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  \n  <section class=\"faq-section\" id=\"faq\">\n    <div>\n      <h2>常见问题与解答</h2>\n      <p>在此查阅关于连接、账户与线路的详细说明。</p>\n    </div>\n\n    \n    <div class=\"faq-group\">\n      <div class=\"faq-group-title\">01 / 线路与连接</div>\n      \n      <div class=\"faq-item\">\n        <div class=\"faq-question\">大师专线采用的是什么级别的网络线路？</div>\n        <div class=\"faq-answer\">我们主要采用运营商级 IPLC 专线以及经过精细优化的国际骨干直联节点，在面对高并发和大数据传输时能保持极低的丢包率与稳定延迟。</div>\n      </div>\n\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">如果某个节点出现波动该如何处理？</div>\n        <div class=\"faq-answer\">客户端内置了智能健康检查机制，会自动剔除延迟异常的节点。您也可以在节点列表手动切换至同组的其他备用线路。</div>\n      </div>\n    </div>\n\n    \n    <div class=\"faq-group\">\n      <div class=\"faq-group-title\">02 / 账户与订阅</div>\n\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">购买套餐后如何开始使用？</div>\n        <div class=\"faq-answer\">完成订阅后，您将在用户面板中获得专属的订阅链接或配置文件，将其导入对应平台的客户端即可一键连入专线。</div>\n      </div>\n\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">流量用尽后能否进行重置或升级？</div>\n        <div class=\"faq-answer\">当月流量额度耗尽后，您可选择提前重置当前套餐流量，或直接升级至更高阶的套餐以获取更多带宽与设备额度。</div>\n      </div>\n    </div>\n  </section>\n</main>\n\n\n<nav class=\"fixed-nav\">\n  <a href=\"#\">返回顶部</a>\n  <a href=\"#plans\">套餐详情</a>\n  <a href=\"#clients\">客户端下载</a>\n  <a href=\"#faq\">常见问题</a>\n</nav>\n\n<footer>\n  <p>© 大师专线 Master Line. 保留所有权利。严谨对待每一次数字传输。</p>\n</footer>",
+          "hash": "4978e284574af2145dc12f7c2c63754489222f6eef04a920f8db576ed0917cec",
+          "seo": {
+            "title": "大师专线 - 专业网络传输与数据链路解决方案",
+            "keywords": "大师专线,网络加速,数据传输,专线节点,企业级网络服务",
+            "description": "大师专线提供严谨、高效的网络数据传输与专线连接方案，以专栏作者的视角为您解读现代数字通信的质感与稳定性。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "3027",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "8 酒红配象牙白",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yyzzm.cn",
+    "host": "p-dd2cbf403a.yyzzm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "258da3efee84ff350a791049dfeca31b6145985ee48d4404728670d616f6a27f",
+    "sitemap.xml": "94adbe1e2e81d332de9879784302f20280ea31dca5aa84617231823c728c73a2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5c0c1cc204967eff3d371b6c9683716b12fc1dd5b54578427083d9f49e78103b",
+    "robots.txt": "75a6449843d831538998a928ea564e0d894373e02481bc14eaca35cfdfe58e2c",
+    "62af1cbc3614e0d4eef4421314e258ef.txt": "b87e6b0cf8525a4f981514a044d5a040d83b0925cee3e5532ff4d580de5eff9a"
+  },
+  "revision": "cda02e46621deaa96fbde6726bf35c95b65d86c4dd7cd35b2903a3b13213b2bb"
+}
